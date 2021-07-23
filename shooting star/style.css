@@ -44,6 +44,7 @@ body {
     box-shadow: 0 0 20px rgba(185, 235, 255, 0.514);
     color: rgb(255, 255, 233);
     width: 90vw;
+    overflow-wrap: break-word;
 }
 
 .url {
